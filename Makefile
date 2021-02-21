@@ -32,4 +32,4 @@ release:
 	gox -ldflags "${LD_FLAGS}" ${GOX_ARGS}
 	shasum -a 512 build/* > build/sha512sums.txt
 
-.PHONY: all vet test coverage clean build run release docker
+.PHONY: all vet clean build run release
