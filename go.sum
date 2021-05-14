@@ -409,8 +409,8 @@ honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc/go.mod h1:rf3lG4BRIbNafJWh
 honnef.co/go/tools v0.0.1-2019.2.3/go.mod h1:a3bituU0lyd329TUQxRnasdCoJDkEUEAqEt0JzvZhAg=
 periph.io/x/conn/v3 v3.6.7 h1:hem/gzoUI0tnvdJOJAk+XLBhqBGX9sHkwShBXRGGy0k=
 periph.io/x/conn/v3 v3.6.7/go.mod h1:3OD27w9YVa5DS97VsUxsPGzD9Qrm5Ny7cF5b6xMMIWg=
-periph.io/x/devices/v3 v3.6.9 h1:FO1BmWJqJhWmQp12uf8s5k6dYpjxFqVYKqy8VUDPkS8=
-periph.io/x/devices/v3 v3.6.9/go.mod h1:wnUn2JMTxoel9dFqLnARLsh+Dm1UZgviXev/Ts0gq1c=
+periph.io/x/devices/v3 v3.6.10 h1:w98Cm9Vkqvg9EMIjhm9HLC9Z+Ws4Ejoh2gJGBp87NdM=
+periph.io/x/devices/v3 v3.6.10/go.mod h1:wnUn2JMTxoel9dFqLnARLsh+Dm1UZgviXev/Ts0gq1c=
 periph.io/x/host/v3 v3.6.7 h1:hUVkGKJ235XocQIRiITxSmP8TT8f27oiN7R2dJkomIE=
 periph.io/x/host/v3 v3.6.7/go.mod h1:wO+N7Q6qU1Pp9EXBfyV9t7kPAlvZxYoJl4ptK62qhSY=
 sigs.k8s.io/yaml v1.1.0/go.mod h1:UJmg0vDUVViEyp3mgSv9WPwZCDxu4rQW1olrI1uml+o=
