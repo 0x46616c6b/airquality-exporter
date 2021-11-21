@@ -4,14 +4,14 @@ The airquality-exporter provides metrics from environmental sensors to give insi
 
 ## Development
 
-Build the exporter using the Makefile
+Build the exporter
 
 ```shell
-make build
+go build -v
 ```
 
 Run the exporter
 
 ```shell
-make run
+go run ./...
 ```
