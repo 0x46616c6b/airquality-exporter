@@ -31,6 +31,15 @@ jobs:
           draft: false
           prerelease: false
 
+      - name: Publish Changelog
+        uses: release-drafter/release-drafter@v5.15.0
+        with:
+          publish: true
+          name: ${{ github.ref }}
+          tag: ${{ github.ref }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Upload binary (amd64)
         uses: actions/upload-release-asset@v1.0.2
         env:
