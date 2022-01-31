@@ -3,7 +3,7 @@ module github.com/0x46616c6b/airquality-exporter
 go 1.17
 
 require (
-	github.com/prometheus/client_golang v1.12.0
+	github.com/prometheus/client_golang v1.12.1
 	periph.io/x/conn/v3 v3.6.10
 	periph.io/x/devices/v3 v3.6.13
 	periph.io/x/host/v3 v3.7.2
