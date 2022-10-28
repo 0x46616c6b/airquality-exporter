@@ -4,9 +4,9 @@ go 1.17
 
 require (
 	github.com/prometheus/client_golang v1.12.0
-	periph.io/x/conn/v3 v3.6.10
+	periph.io/x/conn/v3 v3.7.0
 	periph.io/x/devices/v3 v3.6.13
-	periph.io/x/host/v3 v3.7.2
+	periph.io/x/host/v3 v3.8.0
 )
 
 require (
